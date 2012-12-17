@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<classtable>
+    <name>201026810730</name>
+    <term>2012/2013(1)</term>
+    <classes>
+       <Monday>
+            <first></first>
+            <third>&#x6570;&#x636E;&#x5E93;&#x7CFB;&#x7EDF;&#x5B9E;&#x73B0;&#x2160;/(1-16&#x5468;)|&#x90C1;&#x6587;&#x697C;/&#x90C1;&#x6587;B205/&#x6768;&#x826F;&#x6000;</third>
+            <sixth>&#x65E0;&#x7EBF;&#x4F20;&#x611F;&#x5668;&#x7F51;&#x7EDC;&#x2160;/(9-16&#x5468;)|&#x535A;&#x6613;&#x697C;/&#x535A;&#x6613;B307/&#x6768;&#x65ED;&#x534E;</sixth>
+            <eighth></eighth>
+            <tenth></tenth>
+       </Monday>
+       <Tuesday>
+            <first></first>
+            <third>&#x5FAE;&#x673A;&#x63A5;&#x53E3;&#x6280;&#x672F;&#x2160;/(1-16&#x5468;)|&#x6CD5;&#x5B66;&#x697C;/&#x6CD5;&#x5B66;A204/&#x53E4;&#x8F89;</third>
+            <sixth>&#x8BA1;&#x7B97;&#x673A;&#x56FE;&#x5F62;&#x5B66;&#x2160;/(1-16&#x5468;)|&#x90C1;&#x6587;&#x697C;/&#x90C1;&#x6587;B306/&#x9EC4;&#x9C9C;&#x840D;</sixth>
+            <eighth></eighth>
+            <tenth>&#x64CD;&#x4F5C;&#x7CFB;&#x7EDF;&#x539F;&#x7406;&#x2160;/(1-16&#x5468;)|&#x6CD5;&#x5B66;&#x697C;/&#x6CD5;&#x5B66;A204/&#x6F58;&#x5EFA;</tenth>
+       </Tuesday>
+       <Webnesday>
+            <first>&#x8BA1;&#x7B97;&#x673A;&#x68C0;&#x6D4B;&#x6280;&#x672F;&#x2160;/(1-16&#x5468;)|&#x90C1;&#x6587;&#x697C;/&#x90C1;&#x6587;B303/&#x90DD;&#x5E73;</first>
+            <third></third>
+            <sixth></sixth>
+            <eighth></eighth>
+            <tenth>&#x81EA;&#x52A8;&#x63A7;&#x5236;&#x539F;&#x7406;&#x2160;/(1-16&#x5468;)|&#x90C1;&#x6587;&#x697C;/&#x90C1;&#x6587;B110/&#x7BA1;&#x79CB;</tenth>
+       </Webnesday>
+       <Thursday>
+            <first>&#x65E0;&#x7EBF;&#x4F20;&#x611F;&#x5668;&#x7F51;&#x7EDC;&#x2160;/(1-16&#x5468;)|&#x535A;&#x6613;&#x697C;/&#x535A;&#x6613;B205/&#x6768;&#x65ED;&#x534E;</first>
+            <third>&#x5FAE;&#x673A;&#x63A5;&#x53E3;&#x6280;&#x672F;&#x2160;/(1-16&#x5468;)|&#x535A;&#x6613;&#x697C;/&#x535A;&#x6613;C305/&#x53E4;&#x8F89;</third>
+            <sixth>&#x64CD;&#x4F5C;&#x7CFB;&#x7EDF;&#x539F;&#x7406;&#x2160;/(1-8&#x5468;)|&#x535A;&#x6613;&#x697C;/&#x535A;&#x6613;C305/&#x6F58;&#x5EFA;  &#x8BA1;&#x7B97;&#x673A;&#x56FE;&#x5F62;&#x5B66;&#x2160;/(9-16&#x5468;)|&#x90C1;&#x6587;&#x697C;/&#x90C1;&#x6587;B105/&#x9EC4;&#x9C9C;&#x840D;</sixth>
+            <eighth></eighth>
+            <tenth></tenth>
+       </Thursday>
+       <Friday>
+            <first></first>
+            <third>&#x8BA1;&#x7B97;&#x673A;&#x68C0;&#x6D4B;&#x6280;&#x672F;&#x2160;/(1-8&#x5468;)|&#x6CD5;&#x5B66;&#x697C;/&#x6CD5;&#x5B66;B103/&#x90DD;&#x5E73;</third>
+            <sixth></sixth>
+            <eighth></eighth>
+            <tenth>&#x81EA;&#x52A8;&#x63A7;&#x5236;&#x539F;&#x7406;&#x2160;/(1-12&#x5468;)|&#x4EC1;&#x548C;&#x697C;/&#x4EC1;&#x548C;102/&#x7BA1;&#x79CB;</tenth>
+       </Friday>
+    </classes>
+</classtable>

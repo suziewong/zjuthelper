@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+	<title>工大助手</title>
+	<link rel="icon" href="../favicon.ico" type="image/x-icon">
+	<link rel="stylesheet" type="text/css" href="../public/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">-->
+    <link rel="stylesheet" type="text/css" href="../public/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="../public/css/prettify.css">
+    <link rel="stylesheet" type="text/css" href="../public/css/metro.css">
+    <link rel="stylesheet" type="text/css" href="../public/css/site.css">
+
+    <script type="text/javascript" src="../public/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="../public/js/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="../public/js/jquery.scrollTo.js"></script>
+    <script type="text/javascript" src="../public/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="../public/js/metro.js"></script>
+    <script type="text/javascript" src="../public/js/site.js"></script>
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style type="text/css">
+        body {
+            background: #004050;
+        }
+        .metro {
+            width: 940px;
+            overflow: hidden;
+        }
+        .start {
+			margin-top:10px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container-fluid">
+                <a class="pull-left" style="margin-top: 7px; margin-right: 5px;" href="/">
+                    <img src="../public/img/jh_logo11.png" style="max-height: 16px;">
+                </a>
+                <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <a class="brand" href="../index.php">工大助手</a>
+                <div class="nav-collapse">
+                    <ul class="nav">
+                        <li><a href="../index.php">主页</a></li>
+                        <li><a href="../jhsearch/">人肉</a></li>
+                        <li><a href="../classtable/">课表</a></li>
+                        <li class="active"><a href="./index.php">天气</a></li>
+        </div>
+                    </ul>
+                    <ul class="nav pull-right">
+                                        </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+<div class="container metro">
+ <div class="row">
+     <div class="span5">
+                <h2>今天</h2>
+        <div style="width:480px;">
+            <h2 style='color:#0064cd;'>小雨 4℃～9℃ 北风3-4级</h2>        </div>
+        <h2 class="start">杭州未来七天</h2>
+        <table border="2" width="480px">
+            <tr>
+        <th>日期</th>
+        <th>天气</th>
+    </tr>
+        <tr><td>2012年12月17日 星期一</td><td>小雨 4℃～9℃ 北风3-4级</td></tr><tr><td>2012年12月18日 星期二</td><td>小雨转多云 1℃～6℃ 北风微风</td></tr><tr><td>2012年12月19日 星期三</td><td>多云转阴 4℃～7℃ 东北风微风</td></tr><tr><td>2012年12月20日 星期四</td><td>小雨 5℃～9℃ 西南风微风</td></tr><tr><td>2012年12月21日 星期五</td><td>小雨 6℃～10℃ 西北风微风</td></tr><tr><td>2012年12月22日 星期六</td><td>小雨 3℃～9℃ 北风微风</td></tr><tr><td>2012年12月23日 星期日</td><td>小雨 3℃～9℃ 北风微风</td></tr>        </table>
+    </div>
+     <div class="span5" style ="margin-left:120px;">
+                     <h2 class="start">杭州24小时实时气象</h2>
+        <table border="2" width="440px">
+        <tr>
+                 <th scope="" class="">日期</th>
+                 <th scope="col">温度/℃</th>
+                 <th scope="col">气压/hPa</th>
+                 <th scope="col">能见度/km</th>
+                 <th scope="col">相对湿度/%</th>
+        </tr>
+
+            <tr><td>2012-12-17 14:15:17</td><td>8.4</td><td>1021.1</td><td>0</td><td>70 %</td></tr><tr><td>2012-12-17 13:15:15</td><td>7.8</td><td>1020.9</td><td>0</td><td>76 %</td></tr><tr><td>2012-12-17 13:15:15</td><td>7.3</td><td>1021.7</td><td>0</td><td>82 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.4</td><td>1022.9</td><td>0</td><td>83 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.8</td><td>1023.1</td><td>0</td><td>84 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.7</td><td>1022.9</td><td>0</td><td>82 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>8</td><td>1021.8</td><td>0</td><td>86 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.9</td><td>1020.9</td><td>0</td><td>87 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.9</td><td>1019.8</td><td>0</td><td>92 %</td></tr><tr><td>2012-12-17 13:15:16</td><td>7.8</td><td>1019.5</td><td>0</td><td>94 %</td></tr>        </table>
+    </div>
+</div>
+    <h2>
+       考虑到天气不是经常换，所以准备加上缓存为静态文件。
+    </h2>
+
+
+        <footer class="footer" style="">
+
+            <p class="pull-right"><a href="#">Metro</a></p>
+
+            <p>© 2002-2012 <a href="http://www.zjut.com">精弘网络</a></p>
+        </footer>
+</div>
+
+    <script type="text/javascript">
+        $(".metro").metro();
+    </script>
+
+	
+</body>
+</html>

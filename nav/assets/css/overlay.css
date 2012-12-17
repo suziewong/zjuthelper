@@ -1,0 +1,21 @@
+.overlay{position:fixed;top:0;right:0;bottom:0;left:0;z-index:998;width:100%;height:100%;background:#f6f4f5;display:none;}
+*html .destroy,*html .overlay{position:absolute;top:expression(eval(document.documentElement.scrollTop));}
+.destroy{position:fixed;top:0px;left:50%;margin-left:-425px;*margin-left:-718px;_margin-left:-425px;margin-top:-292px;z-index:99996;opacity:0;filter:alpha(opacity=0);}
+.sheet{position:relative;width:840px;height:460px;margin:auto;padding:0;background:#fff9e2 url("assets/images/tips_bg.gif");
+    box-shadow:inset 0 -1px 0 #FFF,0 1px 6px rgba(0,0,0,.3);
+    -moz-box-shadow:inset 0 -1px 0 #FFF,0 1px 6px rgba(0,0,0,.3);
+    -webkit-box-shadow:inset 0 -1px 0 #FFF,0 1px 6px rgba(0,0,0,.3);
+    border-bottom:2px solid #efebda;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    -moz-border-bottom-left-radius:5px;
+    -moz-border-bottom-right-radius:5px;
+    -webkit-border-bottom-left-radius:5px;
+    -webkit-border-bottom-right-radius:5px;
+}
+.sheet a.close{color:black;display:block;position:absolute;width:40px;height:20px;right:5px;top:5px;background:url("assets/images/sheet_close.gif") no-repeat;}
+.sheet a:hover.close{background-position:0 -30px;}
+.sheet a:active.close{background-position:0 -60px;}
+.sheet .head{padding:20px 15px;border-bottom:1px solid #f6f4ee;}
+.sheet .head h2{padding:0;font-size:18px;font-weight:400;color:#444;text-align:center;}
+.sheet .body{padding:10px 15px;border-top:1px solid #fff;}
