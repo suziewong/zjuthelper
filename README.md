@@ -50,13 +50,11 @@ http://210.32.200.89:11063/zjuthelper/
  1.1 人肉（被下载站的人怂恿做的，不合适我下线这个应用）
  
  1.2  查课表
- 
-        yaofur那个跪了后，我用PHP也做了一个
-        然后为了以后的移动端和其他第三方开发者，我也做了封装成API
-       地址如下http://210.32.200.89:11063/zjuthelper/classtable/open/api.php?method=xml&username=201026810730&password=123456
-       返回格式method 可选择XML 或者JSON  （把method的xml 换成json）
-       XML也是第一次搞（不知道该怎么搞，编码效率问题也是自己脑子想想的）
-       被我设计成这个样子，见连接
+yaofur那个跪了后，我用PHP也做了一个.然后为了以后的移动端和其他第三方开发者，我也做了封装成API
+地址如下http://210.32.200.89:11063/zjuthelper/classtable/open/api.php?method=xml&username=201026810730&password=123456
+返回格式method 可选择XML 或者JSON  （把method的xml 换成json）
+XML也是第一次搞（不知道该怎么搞，编码效率问题也是自己脑子想想的）
+被我设计成这个样子，见连接
        
 http://210.32.200.89:11063/zjuthelper/classtable/open/201026810730.xml
 
